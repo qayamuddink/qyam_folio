@@ -139,10 +139,10 @@ export const experienceData: Experience[] = [
 export const socialLinksData = [
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/qayamuddin-khan",
+    url: "https://www.linkedin.com/in/qayamuddinkhan206/",
     external: true,
   },
-  { name: "GitHub", url: "https://github.com/qayamuddin1k", external: true },
+  { name: "GitHub", url: "https://github.com/qayamuddink", external: true },
 ];
 
 export interface Project {
