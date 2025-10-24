@@ -142,7 +142,7 @@ const HeroSection = ({ isDarkMode, loading }: SectionProps) => {
           <Button
             variant="secondary"
             text="View GitHub"
-            href="https://github.com/qayamuddin1k"
+            href="https://github.com/qayamuddink"
             external
           />
         </motion.div>
