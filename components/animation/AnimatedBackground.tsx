@@ -12,7 +12,7 @@ const AnimatedBackground = ({ isDarkMode }: ThemeProps) => (
         <ShootingStars />
       </>
     ) : (
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-50/50 via-gray-50 to-cyan-50/50" />
+      <div className="absolute inset-0 bg-linear-to-br from-blue-50/50 via-gray-50 to-cyan-50/50" />
     )}
   </div>
 );
